@@ -1,1 +1,2 @@
+Contenido archivo 1:
 Hola mundo
